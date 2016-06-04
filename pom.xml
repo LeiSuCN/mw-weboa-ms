@@ -39,18 +39,11 @@
       <artifactId>spring-boot-starter-jetty</artifactId>
     </dependency>
     
-    <!-- DB -->
-    <dependency>
-      <groupId>org.mybatis.spring.boot</groupId>
-      <artifactId>mybatis-spring-boot-starter</artifactId>
-      <version>1.1.1</version>
-    </dependency>
-    
     <!-- LIB -->
     <dependency>
-     <groupId>com.google.guava</groupId>
-     <artifactId>guava</artifactId>
-     <version>19.0</version>
+      <groupId>com.mailworld.weboa.ms</groupId>
+      <artifactId>base</artifactId>
+      <version>0.0.1</version>
     </dependency>
         
     <!-- LOG -->
